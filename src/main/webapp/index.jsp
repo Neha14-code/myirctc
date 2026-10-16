@@ -65,7 +65,7 @@
             <select id="country" name="country">
                 <option value="">Select your country</option>
                 <option value="us">United States</option>
-                <option value="uk">United Kingdom</option>
+                <option value="uk">Uniteeeed Kingdom</option>
                 <option value="in">India</option>
             </select>
         </div>
