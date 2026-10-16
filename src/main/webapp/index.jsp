@@ -52,6 +52,10 @@
                 
                 <input type="radio" id="female" name="gender" value="female">
                 <label for="female">Female</label>
+                <input type="radio" id="other" name="gender" value="other">
+                <label for="other">other</label>
+
+
             </div>
         </div>
 
