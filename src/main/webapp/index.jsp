@@ -36,7 +36,11 @@
             <label for="email">Email Address:</label>
             <input type="email" id="email" name="email" placeholder="example@email.com" required>
         </div>
+	<div class="form-group">
 
+	    <label for="aadhar"><b>Aadhar Number</b></label>
+            <input type="text" placeholder="Enter Aadhar Number" name="aadhar" id="aadhar" required>
+       </div>
         <!-- Password Input -->
         <div class="form-group">
             <label for="password">Password:</label>
