@@ -67,6 +67,7 @@
                 <option value="us">United States</option>
                 <option value="uk">Uniteeeed Kingdom</option>
                 <option value="in">India</option>
+		<option value="jp">Japan</option>
             </select>
         </div>
 
