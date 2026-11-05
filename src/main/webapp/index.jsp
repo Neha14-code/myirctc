@@ -19,12 +19,12 @@
     </style>
 </head>
 <body>
-
+    <h1>Hello Welcome to This Page</h1>
     <h2>User Registration Form</h2>
-    
+
     <!-- The form tag wraps all inputs. 'action' handles where to send data. 'method="POST"' keeps data secure. -->
     <form action="/submit-form" method="POST">
-        
+
         <!-- Text Input -->
         <div class="form-group">
             <label for="fullname">Full Name:</label>
@@ -49,7 +49,7 @@
             <div class="inline-group">
                 <input type="radio" id="male" name="gender" value="male">
                 <label for="male">Male</label>
-                
+
                 <input type="radio" id="female" name="gender" value="female">
                 <label for="female">Female</label>
                 <input type="radio" id="other" name="gender" value="other">
@@ -88,11 +88,4 @@
         <button type="submit">Submit Form</button>
 
     </form>
-  <h1>heellooo,,,hjhgjhgh</h1>
-</body>
-</html>
-
-
-
-
 
