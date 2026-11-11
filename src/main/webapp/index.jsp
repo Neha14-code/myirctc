@@ -41,6 +41,12 @@
 	    <label for="aadhar"><b>Aadhar Number</b></label>
             <input type="text" placeholder="Enter Aadhar Number" name="aadhar" id="aadhar" required>
        </div>
+       <div class="form-group">
+
+            <label for="mother"><b>Mother Name</b></label>
+            <input type="text" placeholder="Enter Mother Name" name="mother" id="mother" required>
+        </div>
+
         <!-- Password Input -->
         <div class="form-group">
             <label for="password">Password:</label>
