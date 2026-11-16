@@ -46,6 +46,24 @@
             <label for="mother"><b>Mother Name</b></label>
             <input type="text" placeholder="Enter Mother Name" name="mother" id="mother" required>
         </div>
+	<div class="form-group">
+
+            <label for="brother"><b>brother Name</b></label>
+            <input type="text" placeholder="Enter brother Name" name="brother" id="brother" required>
+        </div>
+	<div class="form-group">
+
+            <label for="sister"><b>Sister Name</b></label>
+            <input type="text" placeholder="Enter Sister Name" name="sister" id="sister" required>
+         </div>
+        <div class="form-group">
+ 
+            <label for="father"><b>father Name</b></label>
+            <input type="text" placeholder="Enter father Name" name="father" id="father" required>
+        </div>
+
+
+
 
         <!-- Password Input -->
         <div class="form-group">
