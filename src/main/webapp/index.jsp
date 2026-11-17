@@ -61,8 +61,11 @@
             <label for="father"><b>father Name</b></label>
             <input type="text" placeholder="Enter father Name" name="father" id="father" required>
         </div>
+           <div class="form-group">
 
-
+            <label for="Spouse"><b>Spouse Name</b></label>
+            <input type="text" placeholder="Enter Spouse Name" name="Spouse" id="Spouse"  required>
+        </div>
 
 
         <!-- Password Input -->
